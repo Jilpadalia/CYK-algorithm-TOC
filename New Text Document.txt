@@ -1,0 +1,16 @@
+4
+S XA,BB
+B b,SB
+X b
+A a
+
+-bbbabbab
+
+
+4
+S AB,BC
+A BA,a
+B CC,b
+C AB,a
+
+-baaba
